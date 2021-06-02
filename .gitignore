@@ -1,0 +1,8 @@
+
+.vscode/
+
+.directory
+
+debug.log
+
+!.gitignore
